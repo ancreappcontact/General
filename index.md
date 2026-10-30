@@ -5,4 +5,4 @@ lang: fr
 
 # Applications
 
-- [Ancre](ancre/) : support, confidentialité et conditions d'utilisation
+- [Logofil](logofil/) : support, confidentialité et conditions d'utilisation
